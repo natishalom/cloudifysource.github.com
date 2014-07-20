@@ -8,6 +8,7 @@ pageord: 11
 ---
 {%summary%}{{page.abstract}}{%endsummary%}
 
+
 # What is Cloudify?
 Cloudify is a Cloud Application Orchestrator. It automates any process you need to perform with regard to your applications over any cloud. Starting with environment setup and application installation, going forward to application upgrade, infrastructure upgrade, continuous deployments, auto-healing and auto-scaling.
 
